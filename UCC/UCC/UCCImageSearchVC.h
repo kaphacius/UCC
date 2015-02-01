@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  UCCImageSearchVC.h
 //  UCC
 //
 //  Created by Yurii Zadoianchuk on 01/02/15.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface UCCImageSearchVC : UISplitViewController
 
 @end
-
